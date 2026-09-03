@@ -28,7 +28,7 @@ coverage/
 .DS_Store
 Thumbs.db
 .vscode/
-.idea/
+.idea/ 
 
 # Runtime/temp files
 tmp/
